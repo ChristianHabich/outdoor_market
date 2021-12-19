@@ -1,0 +1,2 @@
+# outdoor_market
+The goal of this analysis is to compare the market position and product pricing for outdoor companies, especially on the european market. In step one revenues of major outdoor companies in the years from 2012-2020 are analysed to get an indication for market shares and growth rates. In step two product descriptions and prices for hiking clothes are scraped from the websites of two companies (Quechua + Vaude) and their pricing is investigated.
